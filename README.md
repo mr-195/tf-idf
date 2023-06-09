@@ -1,5 +1,4 @@
 # TF-IDF (Term Frequency - Inverse Document Frequency) Implementation
-Live Session code
 
 ## Steps use this code as if you are the owner ;)
 1. Clone the repository
